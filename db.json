@@ -3,6 +3,6 @@
     "name": "Kevin",
     "id": "273191",
     "avatar": "https://avatars2.githubusercontent.com/u/40817605",
-    "permissions": ["HOME", "PROFILE", "REPORT", "NOTIFICATION"]
+    "permissions": ["HOME", "PROFILE", "NOTIFICATION"]
   }
 }
